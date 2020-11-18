@@ -1,0 +1,9 @@
+{
+  "name": "Lyreco_app",
+  "displayName": "Lyreco_app",
+  "android": {
+    "permissions": [
+      "CAMERA"
+    ]
+  }
+}
